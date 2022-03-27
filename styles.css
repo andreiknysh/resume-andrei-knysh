@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+
+header {
+text-align: center;
+}
+body {
+    background-image: url(https://kartinkin.net/uploads/posts/2021-07/1626858904_10-kartinkin-com-p-fon-rozisk-krasivo-10.jpg);
+    font-family: Gloria Hallelujah, 'Arial Narrow', Arial, sans-serif ,Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 20px;
+    text-decoration: brown;
+    text-align: center;
+    margin: 20em;
+}
+
+.avatar {
+    border-radius: 100%;
+
+}
+
+
+
+.info-text{
+    font-family: Gloria Hallelujah, 'Arial Narrow', Arial, sans-serif ,Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: normal;
+    color: darkblue;
+    text-align: center;
+}
+
+.hobby{
+    display: center;
+    font-style: italic;
+    font-weight: bolder;
+    color: rgb(58, 102, 45);
+    font-family: Gloria Hallelujah, 'Arial Narrow', Arial, sans-serif ,Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.workexperience{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 20px;
+    color: darkmagenta;
+}
+
+.table{
+    text-align: center;
+}
